@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-open-part3",
+  "version": "0.0.1",
+  "description": "Git repo for full stack open part 3 (backend focussed)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidanclarkescott/full-stack-open-part3.git"
+  },
+  "author": "Aidan Clarke Scott",
+  "license": "ISC",
+  "homepage": "https://github.com/aidanclarkescott/full-stack-open-part3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
